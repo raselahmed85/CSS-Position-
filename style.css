@@ -104,3 +104,10 @@ label{
 .child-div-2{
     margin: 10px;
 }
+.fa-solid{
+    position: absolute;
+    margin: 10px 285px;
+    color: rgb(114, 114, 114);
+
+}
+
