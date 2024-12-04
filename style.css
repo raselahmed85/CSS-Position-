@@ -33,7 +33,7 @@
 
 .container{
     background-color:#ddd;
-    width:50%;
+    width:60%;
     height:900px;
     margin: 0 auto;
 }
@@ -91,7 +91,7 @@ label{
     margin: 20px 10px;
 }
 .sign-in-btn{
-    margin:0 80px ;
+    margin:0 90px ;
     width: 60px;
     height: 25px;
     background-color: rgb(0, 74, 222);
